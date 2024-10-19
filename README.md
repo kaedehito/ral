@@ -1,2 +1,2 @@
 # ral
-the package manager
+The package manager
