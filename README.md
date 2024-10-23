@@ -18,7 +18,7 @@ Ral is a package manager designed to streamline the installation, removal, and m
 Ral is not ready for general use yet. However, if you want to contribute or test the current state, you can clone the repository and build it locally.
 
 ```bash
-git clone https://github.com/yourusername/ral.git
+git clone https://github.com/kaedehito/ral.git
 cd ral
 cargo build --release
 ```
