@@ -1,0 +1,10 @@
+{
+  "build":[
+    "cd ral",
+    "cargo build --release"
+  ],
+  "install": [
+    "cd ral",
+    "mv target/release/ral ../"
+  ]
+}
