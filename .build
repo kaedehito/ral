@@ -6,5 +6,8 @@
   "install": [
     "cd ral",
     "mv target/release/ral ../"
+  ],
+  "remove":[
+    "sudo rm -rf /home/ral/"
   ]
 }
